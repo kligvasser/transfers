@@ -5,8 +5,6 @@ Playing around with PyTorch.
   <img width="311" height="370" src="/images/me_dp.png">
 </p>
 
-Please refer our [paper](https://arxiv.org/abs/1711.06445) for more details.
-
 # Dependencies
 - python (tested with 3.5)
 - PyTorch >= 0.2.0
